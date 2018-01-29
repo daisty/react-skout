@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\skout\\skout\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\skout\\skout\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.49.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\skout\\skout\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\skout\\skout\\android\\app\\build\\intermediates\\exploded-aar\\skoutUI\\react-native-image-picker\\unspecified\\res\\xml\\provider_paths.xml"
+    }
+]
